@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\What i know\What i know\bin\Debug\What i know.exe.config
+C:\Users\Zane\source\repos\What i know\What i know\bin\Debug\What i know.exe
+C:\Users\Zane\source\repos\What i know\What i know\bin\Debug\What i know.pdb
+C:\Users\Zane\source\repos\What i know\What i know\obj\Debug\What i know.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\What i know\What i know\obj\Debug\What i know.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\What i know\What i know\obj\Debug\What i know.exe
+C:\Users\Zane\source\repos\What i know\What i know\obj\Debug\What i know.pdb
